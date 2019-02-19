@@ -1,5 +1,6 @@
 mpa-exercise
 =============
+  _Multi Page Application Exercise_
 
 This exercise will help you to have a better understanding of the correct structure of a web project.
 
