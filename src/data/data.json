@@ -1,0 +1,46 @@
+{
+  "logo": {
+    "img": "assets/icon.png",
+    "link": "#"
+  },
+  "links": [
+    {
+      "label": "Home",
+      "href": "#"
+    },
+    {
+      "label": "Content",
+      "href": "#"
+    },
+    {
+      "label": "Item1",
+      "links": [
+        {
+          "label": "SubItem1",
+          "href": "#"
+        },
+        {
+          "label": "SubItem2",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "label": "Item2",
+      "links": [
+        {
+          "label": "SubItem1",
+          "href": "#"
+        },
+        {
+          "label": "SubItem2",
+          "href": "#"
+        },
+        {
+          "label": "SubItem3",
+          "href": "#"
+        }
+      ]
+    }
+  ]
+}

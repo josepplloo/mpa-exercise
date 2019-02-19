@@ -1,0 +1,14 @@
+div.nav-bar.menu-hide
+  ul
+    each val in links
+      if val.href
+        li
+          a(href=val.href)= val.label
+      else
+        button(type='button')= val.label
+        ul
+          each item in val.links
+            li
+              a(href=item.href)= item.label
+                
+              

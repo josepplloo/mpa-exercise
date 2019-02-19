@@ -1,0 +1,15 @@
+ul {
+  border: 1px solid black ;
+}
+
+.nav-bar {
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.menu-hide {  
+  display: none
+}
