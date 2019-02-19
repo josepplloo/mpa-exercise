@@ -2,7 +2,7 @@ mpa-exercise
 =============
   _Multi Page Application Exercise_
 
-  > This exercise is borrow from [andrscrrn](https://github.com/andrscrrn/hb-multipage-site)
+  > This exercise was taken from [andrscrrn](https://github.com/andrscrrn/hb-multipage-site)
 
 This exercise will help you to have a better understanding of the correct structure of a web project.
 
