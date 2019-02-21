@@ -3,11 +3,12 @@ span {
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
   line-height: 5.8vh;
-  font-size: 2rem;
+  font-size: 150%;
   font-family: Helvetica,Arial,sans-serif;
   font-style: normal;
   text-transform: uppercase;
   background-color: #fff5;
+  
 }
 
 .cta-msg {
@@ -16,9 +17,12 @@ span {
   position: relative;
   left: 2vw;
   top: -145px;
+  display: block;
+  width: 45%;
+  word-break: break;
 }
 
 
 .hero-img {
-  width: 95.5vw;
+  width: 100%;
 }
