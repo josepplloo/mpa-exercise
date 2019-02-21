@@ -2,6 +2,7 @@ div
   picture
     source(media='(min-width: 1023px)', srcset=images.large.url)
     source(media='(min-width: 640px)', srcset=images.medium.url)
-    img.hero-img(src=images.small.url, alt=images.small.description)
+    source(media='(max-width: 639px)', srcset=images.small.url)
+    img.hero-img(alt=images.small.description)
   a.cta-msg(href=cta.url)
     span= cta.label
