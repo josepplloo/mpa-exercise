@@ -1,4 +1,4 @@
-import data from './../../data/HeroD.json'
+import data from './../../data/heroD.json'
 import template from './heroD.pug'
 import './heroD.scss'
 
