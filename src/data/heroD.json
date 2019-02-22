@@ -1,0 +1,22 @@
+{
+  "header": "rick and morty",
+  "description": "my description",
+  "cta": {
+    "label": "Exclusive: Rick and Morty.",
+    "url": "#"
+  },
+  "images": {
+    "small": {
+      "url": "assets/hero1.jpg",
+      "description": "Rick and Morty Hero"
+    },
+    "medium": {
+      "url": "assets/hero2.jpg",
+      "description": "Rick and Morty Hero"
+    },
+    "large": {
+      "url": "assets/hero3.jpg",
+      "description": "Rick and Morty Hero"
+    }
+  }
+}

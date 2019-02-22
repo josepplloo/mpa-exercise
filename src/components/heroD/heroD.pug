@@ -1,0 +1,18 @@
+div.hero-d
+  article.hero-d__image
+  style.
+    @media (min-width: 1024px) {
+      .hero-d__image {
+        background: url("#{images.large.url}") no-repeat;
+      }
+    }
+    @media (min-width: 640px) and (max-width: 1023px) {
+      .hero-d__image {
+          background: url("#{images.medium.url}") no-repeat;
+      }
+    }
+    @media (max-width: 639px) {
+      .hero-d__image {
+          background: url("#{images.small.url}") no-repeat;
+      }
+    }  
